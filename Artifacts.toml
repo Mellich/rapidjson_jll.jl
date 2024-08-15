@@ -1,0 +1,6 @@
+[rapidjson]
+git-tree-sha1 = "995fdce68869a1dfdd9415a16fd49e24d51096e5"
+
+    [[rapidjson.download]]
+    sha256 = "34b944b891978626c6ce69ee906627cce87d1a7431be7566e650338955799d3b"
+    url = "https://github.com/Mellich/rapidjson_jll.jl/releases/download/rapidjson-v1.1.0+0/rapidjson.v1.1.0.any.tar.gz"
